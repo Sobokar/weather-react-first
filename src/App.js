@@ -9,28 +9,31 @@ export default function App() {
       <div className="appBody">
         <CitySearchForm />
         <footer>
-          This project was coded by
+          This project was coded by{" "}
           <a
             href="https://github.com/Sobokar"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Yevheniia Sobokar
+            {" "}
+            Yevheniia Sobokar{" "}
           </a>
-          and is on
+          and is on{" "}
           <a
             href="https://github.com/Sobokar/weather-react-first"
             target="_blank"
             rel="noopener noreferrer"
           >
+            {" "}
             GitHub
-          </a>
-          and hosted
+          </a>{" "}
+          and hosted{" "}
           <a
             href="https://weather-react-app-step1.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
+            {" "}
             on Netlify
           </a>
         </footer>

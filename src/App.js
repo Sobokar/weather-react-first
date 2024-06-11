@@ -19,7 +19,7 @@ export default function App() {
           </a>
           and is on
           <a
-            href="https://github.com/Sobokar/weather-app-from-sobokar"
+            href="https://github.com/Sobokar/weather-react-first"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>
           and hosted
           <a
-            href="https://weather-app-from-sobokar.netlify.app"
+            href="https://weather-react-app-step1.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
